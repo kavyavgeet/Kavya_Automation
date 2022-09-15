@@ -28,7 +28,7 @@ public class JavaExamples {
 		String[] str= {"Solum", "India", "Korea"};
 		for(String s: str)
 		{
-			System.out.println(s);
+			System.out.println(s + " String Array");
 		}
 
 	}
